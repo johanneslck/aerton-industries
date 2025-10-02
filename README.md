@@ -1,4 +1,4 @@
-![header](https://github.com/user-attachments/assets/2c0cc6e5-73fc-4236-bb06-c5275bd9f8ce)
+<img width="1600" height="896" alt="AERTON INDUSTRIES" src="https://github.com/user-attachments/assets/3760ceac-89a0-4ca9-8bc1-bb29a0a223a2" />
 
 # Aerton Industries
 Exploring asteroid resources with data analysis, simulations, and open-source research for future space mining.
