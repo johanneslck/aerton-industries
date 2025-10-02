@@ -1,4 +1,5 @@
-![Aerton Industries Banner] (assets/header.jpg)
+![header](https://github.com/user-attachments/assets/2c0cc6e5-73fc-4236-bb06-c5275bd9f8ce)
+
 # Aerton Industries
 Exploring asteroid resources with data analysis, simulations, and open-source research for future space mining.
 
