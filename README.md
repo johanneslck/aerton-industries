@@ -41,9 +41,9 @@ If you're a student, researcher, developer, or simply curious about the future o
 ---
 
 ## Author
--> *Johannes Luck* - Founder of *Aerton Industries*
--> Based in Germany
--> LinkedIn: 
+- *Johannes Luck* - Founder of *Aerton Industries*
+- Based in Germany
+- LinkedIn: 
 
 ---
 
