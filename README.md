@@ -24,10 +24,10 @@ Furthermore Asteroids contain metals, minerals and volatiles that could power bo
 ---
 
 ## Repository Structure
-/code -> Python scripts, data analysis, visualization
-/data -> Example asteroid datasets
-/docs -> Roadmap, research notes
-/hardware -> Early sketches & robotics prototypes (future)
+- /code - Python scripts, data analysis, visualization
+- /data - Example asteroid datasets
+- /docs - Roadmap, research notes
+- /hardware - Early sketches & robotics prototypes (future)
 
 ---
 
@@ -47,4 +47,4 @@ If you're a student, researcher, developer, or simply curious about the future o
 
 ---
 
-*"Big visions start small. This is my first step."*
+*"Big visions start small. This is the first step."*
